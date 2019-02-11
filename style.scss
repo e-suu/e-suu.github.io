@@ -317,18 +317,14 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  width: 100%;
+  border-bottom: 2px solid $lightGray;
 
   @include mobile {
     text-align: center;
   }
 }
 
-.site-avatar {
-  float: left;
-  width: 70px;
-  height: 70px;
-  margin-right: 15px;
 
   @include mobile {
     float: none;
