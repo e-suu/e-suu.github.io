@@ -371,9 +371,11 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
-  font-size: 14px;
+  font-family: 'Noto Sans KR', sans-serif;
+
   letter-spacing:-50;
+  font-size: 14px;
+  
 
   @include mobile {
     float: none;
