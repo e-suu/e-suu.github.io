@@ -20,40 +20,33 @@ avatar: ""
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
-  - name: Blog
+  - name: 프로모션
     url: /
-  - name: About
-    url: /about
-  - name: Archive
-    url: /archive
-  - name: Tags
-    url: /tags
-  - name: Theme
-    url: ""
+
 
 # Pagination
 paginate: 5
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  behance: # https://www.behance.net/<username>
+  behance: 
   dribbble:
   email:
   facebook:
   flickr:
   github: AWEEKJ/kiko-now
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  googleplus: 
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  tumblr: # https://<username>.tumblr.com
+  rss: 
+  stackoverflow: 
+  tumblr: 
   twitter: jekyllrb
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: 
 
 # Text under the icons in footer
-footer-text: © 2017 Kiko Now
+footer-text: DESIGN REVIEW
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
